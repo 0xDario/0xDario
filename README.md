@@ -18,10 +18,4 @@ I'm passionate about **Finance** and **Cybersecurity**, and I thrive in collabor
 
 When I'm not developing, you'll find me playing guitar, gaming, traveling, or exploring new restaurants. I'm convinced that diverse experiences make for better developers.
 
-## 📫 Let's Connect
-
-**Website:** [turchi.ca](https://turchi.ca)
-
----
-
 *Open to interesting contract opportunities and collaborations*
