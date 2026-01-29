@@ -1,6 +1,6 @@
 # Dario Turchi
 
-**Full-Stack Software Developer** | 5+ Years Experience
+**Full-Stack Software Developer** | 6+ Years Experience
 
 I build scalable, efficient applications with a focus on the .NET ecosystem. Currently working as a self-employed contractor for MPBSDP, I specialize in solving complex problems through clean, maintainable code.
 
