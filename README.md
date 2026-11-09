@@ -1,32 +1,13 @@
-# Dario Turchi
+### hey, i'm dario 👋
 
-**Full-Stack Software Developer** | 6+ Years Experience
+full-stack dev, 6+ years in. independent contractor, currently shipping features for the Ontario government.
 
-I build scalable, maintainable applications across the stack, from .NET back ends to React/TypeScript front ends. I'm currently a self-employed contractor with MPBSDP, building features on a large Ontario government platform for driver and vehicle services: a Next.js/React/TypeScript front end on top of Java/Spring Boot microservices running on Azure.
+- **now:** shipping React / Next.js / TypeScript, plus some Java/Spring Boot when the backend needs a hand
+- **home base:** C#/.NET, Blazor, MAUI, SQL
+- **lately:** deep in AI coding agents. built a lot of the Copilot / Claude Code tooling my team uses
+- **into:** finance and cybersecurity
+- **offline:** guitar, games, travel, and trying every new restaurant in town
 
-## 🛠️ Technical Expertise
+[![my stack](https://skillicons.dev/icons?i=ts,react,nextjs,cs,dotnet,java,spring,py,docker,kubernetes,azure)](https://skillicons.dev)
 
-**Current focus:** TypeScript • React • Next.js • Jest • Playwright
-
-**Core background:** C# • .NET • Blazor/MAUI • SQL
-
-**Also experienced with:** Java/Spring Boot • Python • JavaScript • C
-
-**Platform & tooling:** Azure DevOps • Docker • Kubernetes (AKS) • Git • AI-assisted development (GitHub Copilot, Claude Code)
-
-## 🚀 Recent Work (2026)
-
-- Build features in a large enterprise Next.js app: audit trails, role-based access control and order-reversal workflows
-- Resolve defects end to end: reproduce, fix, add a regression test, get it reviewed
-- Add quality guardrails: Jest and Playwright tests, and custom ESLint rules that keep refactoring safe
-- One of the main contributors to the team's shared toolkit for AI coding agents (GitHub Copilot, Claude Code): reusable skills, coding standards and automated code review
-
-## 💡 What Drives Me
-
-I'm passionate about **Finance** and **Cybersecurity** (which is why I enjoy work like access control and audit trails), and I thrive in collaborative environments where innovation meets practical problem-solving. I believe the best solutions come from understanding both the technical and human sides of every challenge.
-
-## 🌍 Beyond Code
-
-When I'm not developing, you'll find me playing guitar, gaming, traveling, or exploring new restaurants. I'm convinced that diverse experiences make for better developers.
-
-*Open to interesting contract opportunities and collaborations*
+open to contracts. got something cool? hit me up on [LinkedIn](https://www.linkedin.com/in/0xDario)
